@@ -18,7 +18,7 @@ Additional technical archives are available from the [ASIX Support website](http
 - Reference design boards and BSPs 
 - ASIX Forum and FAQs   
 
-For additional technical archives related to ASIX products, please contact [ASIX Support](support@asix.com.tw) (support@asix.com.tw) for further information.
+For additional technical archives related to ASIX products, please contact ASIX Support (support@asix.com.tw) for further information.
 
 ---
 For more information, please visit:  
