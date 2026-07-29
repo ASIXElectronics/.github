@@ -1,28 +1,29 @@
 # ASIX Electronics Open Source 
 
-ASIX Electronics Corporation is an IC design company focused on industrial, USB, and embedded networking as well as I/O connectivity solutions. We deliver a wide range of products, including Industrial Ethernet/EtherCAT MCUs and controllers, USB Ethernet chips, embedded Ethernet chips, PCIe or USB bridges ICs for UART/serial and parallel interfaces, UART transceivers, and USB KVM switch SoCs.
+ASIX Electronics Corporation is a fabless IC design company specializing in industrial, USB, and embedded networking solutions, as well as I/O connectivity. Our product portfolio spans a wide range of applications, including Industrial Ethernet and EtherCAT controllers, microcontrollers (MCUs), USB-to-Ethernet ICs, embedded/SPI Ethernet chips, PCIe and USB bridges to serial/UART/SPI/GPIO, parallel and local bus/SRAM-like interfaces bridge controllers, UART transceivers, and USB KVM switch SoCs.
 
-The software provided here is published and maintained by ASIX Electronics as part of our commitment to open development. Additional resources — including documentation, devices, and reference designs — are available on our official website: www.asix.com.tw. While most repositories are open source, some may include proprietary licenses; please refer to the LICENSE.md file in each repository for details.
+The software in this repository is published and maintained by ASIX Electronics Corporation as part of our commitment to open software development. Additional technical resources—including datasheets, hardware and software design notes, and reference schematics—are available on the official ASIX website: [www.asix.com.tw](https://www.asix.com.tw). While most repositories are distributed under open‑source licenses, some may include proprietary components. Please consult the LICENSE file in each repository for specific licensing information.
 
-We offer developers and engineers open‑source drivers, hardware schematics, SDKs, and documentation to accelerate innovation in industrial and embedded networking applications. Our mission is to make ASIX technologies accessible worldwide by providing easy‑to‑use development resources and supporting educational initiatives for engineers and enthusiasts alike.
-
----
-## Open-Source Resources
-This GitHub Organization hosts official open-source software resources delivered by ASIX Electronics Corp.
-Here you will find:
-- Linux driver sources for ASIX Electronics ICs
-
-Designers can get more ASIX products technical archives from ASIX Support website (https://www.asix.com.tw/en/support). 
-- Hardware schematics and development board references 
-- SDKs and sample applications for embedded platforms 
-- Documentation and FAQs to support integration  
-
-While most of our repositories are published under open-source licenses, some resources may be released under proprietary terms. Please check the LICENSE.md file included in each repository for details.
+We provide developers and engineers with open‑source drivers, hardware schematics, SDKs, and documentation to accelerate innovation in industrial and embedded networking applications. Our mission is to make ASIX technologies accessible worldwide by offering user‑friendly development resources and supporting educational initiatives for engineers, researchers, and enthusiasts alike.
 
 ---
+## Open‑Source Resources
 
+This GitHub organization hosts the official open‑source software resources provided by ASIX Electronics.  
+Here you will find Linux driver sources for ASIX industrial, USB, embedded, and SPI Ethernet as well as I/O interface ICs.
+
+Additional technical archives are available from the [ASIX Support website](https://www.asix.com.tw/en/support), including:  
+- Datasheets, design notes and user guides   
+- Hardware schematics and PCB layout files  
+- Reference design boards and BSPs 
+- ASIX Forum and FAQs   
+
+For additional technical archives related to ASIX products, please contact [ASIX Support](support@asix.com.tw) (support@asix.com.tw) for further information.
+
+---
 For more information, please visit:  
-- [ASIX Electronics Corp. Website](https://www.asix.com.tw/)  
-- [ASIX Products](https://www.asix.com.tw/en/product)  
-- [ASIX Support Home](https://www.asix.com.tw/en/support)
-- [ASIX Forum](https://www.asix.com.tw/en/support/forum)   
+- [ASIX Electronics Corporation Website](https://www.asix.com.tw/)  
+- [ASIX Technical Support](https://www.asix.com.tw/en/support)  
+- [ASIX Support Request Form](https://www.asix.com.tw/en/support/request)  
+- [ASIX Forum](https://www.asix.com.tw/en/support/forum)
+- [ASIX YouTube Video](https://www.youtube.com/user/ASIXelectronics/)
