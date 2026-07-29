@@ -1,4 +1,4 @@
-# ASIX Electronics Open Source 
+# ASIX Electronics Official Open Source Organization
 
 ASIX Electronics Corporation is a fabless IC design company specializing in industrial, USB, and embedded networking solutions, as well as I/O connectivity. Our product portfolio spans a wide range of applications, including Industrial Ethernet and EtherCAT controllers, microcontrollers (MCUs), USB-to-Ethernet ICs, embedded/SPI Ethernet chips, PCIe and USB bridges to serial/UART/SPI/GPIO, parallel and local bus/SRAM-like interfaces bridge controllers, UART transceivers, and USB KVM switch SoCs.
 
