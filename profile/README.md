@@ -22,8 +22,7 @@ For additional technical archives related to ASIX products, please contact ASIX 
 
 ---
 For more information, please visit:  
-- [ASIX Electronics Corporation Website](https://www.asix.com.tw/)  
-- [ASIX Technical Support](https://www.asix.com.tw/en/support)  
+- [ASIX Electronics Corporation Home](https://www.asix.com.tw/)  
 - [ASIX Support Request Form](https://www.asix.com.tw/en/support/request)  
 - [ASIX Forum](https://www.asix.com.tw/en/support/forum)
 - [ASIX YouTube Video](https://www.youtube.com/user/ASIXelectronics/)
